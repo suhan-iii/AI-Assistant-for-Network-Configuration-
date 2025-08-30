@@ -9,11 +9,11 @@ It simplifies network automation by enabling users to describe desired network s
 
 - 📝 **Natural language input** — Describe your networking needs  
   _Example: “create VLAN for Sales, IP range 10.0.0.0/24”_  
-- ⚡ **MVP (Week 1–2)**  
+- ⚡ **MVP **  
   - Regex- and rule-based parsing to generate config scripts  
   - Dashboard to preview output  
   - Export as `.cfg` file  
-- 🚀 **Advanced (Week 3+)**  
+- 🚀 **Advanced **  
   - NLP parsing using OpenAI or HuggingFace  
   - ✅ Syntax validation for generated configs  
   - 🗂 History of generated configs (Firebase/AWS/SQLite)  
